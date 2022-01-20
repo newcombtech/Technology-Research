@@ -9,29 +9,20 @@ Coming soon!
 
 [**Data Visualizations**](https://github.com/newcombtech/Technology-Research#data-visualizations)
 
-	- Mapping Platforms
-
-	- General Data Viz Tools
-
-	- Timeline Visualizations
+- Mapping Platforms
+- General Data Viz Tools
+- Timeline Visualizations
 
 [**WordPress Plugins**](https://github.com/newcombtech/Technology-Research#wordpress-plugins)
 
-	- Plugin Development
-
-	- Video Plugins
-
-		- All-in-One Video Gallery
-
-		- Image Horizontal Reel Slideshow
-
-		- Envira Gallery
-
-		- Photo Gallery
-
-		- Video Gallery - Vimeo and YouTube Gallery
-
-		- WP Video Lightbox
+- Plugin Development
+- Video Plugins
+	- All-in-One Video Gallery
+	- Image Horizontal Reel Slideshow
+	- Envira Gallery
+	- Photo Gallery
+	- Video Gallery - Vimeo and YouTube Gallery
+	- WP Video Lightbox
 
 [**Dublin Core**](https://github.com/newcombtech/Technology-Research#dublin-core)
 
@@ -43,11 +34,9 @@ Coming soon!
 
 ## Data Visualizations
 
-	- Mapping Platforms
-
-		- ArcGIS
-
-		- Tableau
+- Mapping Platforms
+	- ArcGIS
+	- Tableau
 
 Full list coming soon!
 
