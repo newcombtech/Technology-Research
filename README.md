@@ -9,18 +9,29 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 Coming soon!
 
 **Data Visualizations**
+
 	- Mapping Platforms
+
 	- General Data Viz Tools
+
 	- Timeline Visualizations
 
 **WordPress Plugins**
+
 	- Plugin Development
+
 	- Video Plugins
+
 		- All-in-One Video Gallery
+
 		- Image Horizontal Reel Slideshow
+
 		- Envira Gallery
+
 		- Photo Gallery
+
 		- Video Gallery - Vimeo and YouTube Gallery
+
 		- WP Video Lightbox
 
 **Dublin Core**
@@ -32,43 +43,77 @@ Coming soon!
 Coming soon!
 
 ## Data Visualizations
+
 	- Mapping Platforms
+
 		- ArcGIS
+
 		- Tableau
+
 Full list coming soon!
 
 	- [General Data Viz Tools](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.pdf)
+		
 		- ArcGIS Story Maps
+		
 		- ESRI Story Maps
+
 		- Gephi
+
 		- Knights Lab
+
 		- Omeka
+
 		- ESRI
+
 		- Zotero
+
 		- Palladio
+
 		- Flourish
+
 		- RawGraphs
+
 		- Datawrapper
 
+Details about the listed technologies are availible via the Data Viz Tools document.
+
 	- [Timeline Visualizations](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.pdf)
+
 		- Liniaa
+
 		- Timeline JS
+
 		- WP Timeline
+
 		- TimelineExpress
+
 		- Event Timeline - Vertical Timeline
+
 		- Visme
+
 		- Edraw Max
+
 		- Twile
 
 ## WordPress Plugins
 
 	- [Plugin Development](https://github.com/newcombtech/Technology-Research/blob/main/Writing%20a%20Plugin%20Research%20and%20Notes.pdf)
+
 	- [Video Plugins](https://github.com/newcombtech/Technology-Research/blob/main/Video%20and%20Reel%20Plugins.pdf)
+
 		- All-in-One Video Gallery
+
 		- Image Horizontal Reel Slideshow
+
 		- Envira Gallery
+
 		- Photo Gallery
+
 		- Video Gallery - Vimeo and YouTube Gallery
+
 		- WP Video Lightbox
 
 ## Dublin Core
+
+Coming soon!
