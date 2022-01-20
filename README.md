@@ -1,14 +1,13 @@
 # Technology Research
-
 The Tech Lab teams have conducted a lot of research about a variety of platforms and technologies, so this repository exists as a space to be a centralized location for the research. That way, project owners can have access to the different types of platforms and the documents can be edited as they need. The documents themselves also breakdown the pros, cons, cost, technical complexity, and have an example of the software in question.
 
 ## Table of Contents
 
-**Website Platforms**
+[**Website Platforms**](https://github.com/newcombtech/Technology-Research#website-platforms)
 
 Coming soon!
 
-**Data Visualizations**
+[**Data Visualizations**](https://github.com/newcombtech/Technology-Research#data-visualizations)
 
 	- Mapping Platforms
 
@@ -16,7 +15,7 @@ Coming soon!
 
 	- Timeline Visualizations
 
-**WordPress Plugins**
+[**WordPress Plugins**](https://github.com/newcombtech/Technology-Research#wordpress-plugins)
 
 	- Plugin Development
 
@@ -34,7 +33,7 @@ Coming soon!
 
 		- WP Video Lightbox
 
-**Dublin Core**
+[**Dublin Core**](https://github.com/newcombtech/Technology-Research#dublin-core)
 
 Coming soon!
 
