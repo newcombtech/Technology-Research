@@ -52,7 +52,7 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 
 ## Website Platforms
 
-- Website Platforms
+- [Website Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.docx)
 	- Omeka
 		- Omeka S
 		- Omeka Classic
@@ -69,14 +69,18 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 	- Wix.com
 	- Weebly
 
+Details about the listed technologies are available via the [Website Research document](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.docx).
+
 ## Data Visualizations
 
-- Mapping Platforms
+- [Mapping Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx)
 	- ArcGIS
 	- Mapbox
 	- Mango
 	- ZeeMaps
 	- Tableau
+
+Details about the listed technologies are availible via the [Mapping Research document](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx).
 
 - [General Data Viz Tools](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.pdf)
 	- ArcGIS Story Maps
@@ -107,9 +111,12 @@ Details about the listed technologies are availible via the [Timeline Visualizat
 
 ## Video Platforms
 
-- Zoom Cloud Recordings
-- YouTube
-- Vimeo
+- [Video Platform Research](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.docx)
+	- Zoom Cloud Recordings
+	- YouTube
+	- Vimeo
+
+Details about the listed technologies are available via the [Video Platform Research document](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.docx).
 
 ## WordPress Plugins
 
@@ -126,4 +133,4 @@ Details about the listed technologies are availible via the [Video Plugins docum
 
 ## Dublin Core
 
-- [Dublin Core Research]()
+- [Dublin Core Research](https://github.com/newcombtech/Technology-Research/blob/main/Dublin%20Core%20Research.docx)
