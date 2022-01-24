@@ -5,13 +5,34 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 
 [**Website Platforms**](https://github.com/newcombtech/Technology-Research#website-platforms)
 
-Coming soon!
+- Website Platforms
+	- Omeka
+		- Omeka S
+		- Omeka Classic
+		- Omeka.net
+	- WordPress
+	- collectiveaccess.org
+	- scalar.usc.edu
+	- GitHub
+	- exhibits.tulane.edu (WordPress)
+	- Collection Builder
+	- Readymag
+	- Crevado
+	- ucraft
+	- Wix.com
+	- Weebly
 
 [**Data Visualizations**](https://github.com/newcombtech/Technology-Research#data-visualizations)
 
 - Mapping Platforms
 - General Data Viz Tools
 - Timeline Visualizations
+
+[**Video Platforms**](https://github.com/newcombtech/Technology-Research#video-platforms)
+
+- Zoom Cloud Recordings
+- YouTube
+- Vimeo
 
 [**WordPress Plugins**](https://github.com/newcombtech/Technology-Research#wordpress-plugins)
 
@@ -26,18 +47,36 @@ Coming soon!
 
 [**Dublin Core**](https://github.com/newcombtech/Technology-Research#dublin-core)
 
-Coming soon!
+- Intro to Dublin Core Metadata
+- WordPress Dublin Core plugins
 
 ## Website Platforms
 
-Coming soon!
+- Website Platforms
+	- Omeka
+		- Omeka S
+		- Omeka Classic
+		- Omeka.net
+	- WordPress
+	- collectiveaccess.org
+	- scalar.usc.edu
+	- GitHub
+	- exhibits.tulane.edu (WordPress)
+	- Collection Builder
+	- Readymag
+	- Crevado
+	- ucraft
+	- Wix.com
+	- Weebly
 
 ## Data Visualizations
 
 - Mapping Platforms
 	- ArcGIS
+	- Mapbox
+	- Mango
+	- ZeeMaps
 	- Tableau
-	- Full list coming soon!
 
 - [General Data Viz Tools](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.pdf)
 	- ArcGIS Story Maps
@@ -66,6 +105,12 @@ Details about the listed technologies are availible via the [Data Viz Tools docu
 
 Details about the listed technologies are availible via the [Timeline Visualizations document](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.pdf).
 
+## Video Platforms
+
+- Zoom Cloud Recordings
+- YouTube
+- Vimeo
+
 ## WordPress Plugins
 
 - [Plugin Development](https://github.com/newcombtech/Technology-Research/blob/main/Writing%20a%20Plugin%20Research%20and%20Notes.pdf)
@@ -81,4 +126,4 @@ Details about the listed technologies are availible via the [Video Plugins docum
 
 ## Dublin Core
 
-Coming soon!
+- [Dublin Core Research]()
