@@ -75,10 +75,13 @@ Details about the listed technologies are available via the [Website Research do
 
 - [Mapping Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx)
 	- ArcGIS
-	- Mapbox
+	- Flourish
+	- Gephi
 	- Mango
-	- ZeeMaps
+	- Mapbox
+	- Palladio
 	- Tableau
+	- ZeeMaps
 
 Details about the listed technologies are availible via the [Mapping Research document](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx).
 
