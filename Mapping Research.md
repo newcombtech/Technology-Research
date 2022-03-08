@@ -1,6 +1,6 @@
 # **Mapping Platforms**
 
-## **[ArcGIS]{.underline}**
+## **ArcGIS**
 
 *ArcGIS Online enables you to connect people, locations, and data using
 interactive maps. Work with smart, data-driven styles and intuitive
@@ -21,8 +21,7 @@ visualization. ​*
 
 -   Build on dynamic and high-quality maps
 
--   Lots of room for specialization, allows for animations and time
-    > slider
+-   Lots of room for specialization, allows for animations and time slider
 
 -   Also includes graphing options
 
@@ -32,7 +31,7 @@ visualization. ​*
 
 -   From reviews, arcGIS has a steep learning curve.
 
-## **[Flourish]{.underline}**
+## **Flourish**
 
 **Description:**
 
@@ -40,22 +39,15 @@ visualization. ​*
 
 **Pros:**
 
--   Includes several compelling options for map visuals - including
-    > Point Maps, which look similar to the maps produced in Palladio,
-    > and Story Maps, which more closely resembles the maps produced in
-    > arcGIS. Connections Globe is another cool template - visualizes
-    > pathways on a 3D globe.
+-   Includes several compelling options for map visuals - including Point Maps, which look similar to the maps produced in Palladio, and Story Maps, which more closely resembles the maps produced in arcGIS. Connections Globe is another cool template - visualizes pathways on a 3D globe.
 
--   Movement can be incorporated into the maps - i.e. sliding scale
-    > shows how map changes overtime
+-   Movement can be incorporated into the maps - i.e. sliding scale shows how map changes overtime
 
 **Cons:**
 
--   According to one review, the public version of Flourish
-    > processes/visualizes data slowly. This could potentially be a
-    > hassle given the amount of data we want to visualize.
+-   According to one review, the public version of Flourish processes/visualizes data slowly. This could potentially be a hassle given the amount of data we want to visualize.
 
-## **[Gephi]{.underline}**
+## **Gephi**
 
 **Description:**
 
@@ -72,15 +64,11 @@ really tell us much.
 
 **Cons:**
 
--   From reviews, Gephi apparently has a steep learning curve and can be
-    > difficult to get the hang of. There are many tutorials available
-    > on the internet, but many reviewers mentioned that it was hard.
+-   From reviews, Gephi apparently has a steep learning curve and can be difficult to get the hang of. There are many tutorials available on the internet, but many reviewers mentioned that it was hard.
 
--   Although I really like the abstract data visualization style,
-    > without the GeoLayout plugin. This adds one more level of software
-    > that the team will have to get the hang of.
+-   Although I really like the abstract data visualization style, without the GeoLayout plugin. This adds one more level of software that the team will have to get the hang of.
 
-## **[Mango]{.underline}**
+## **Mango**
 
 *Mango offers a variety of different mapping options for various
 industries -- including local governments, demographics, business
@@ -93,13 +81,11 @@ or in a popup modal.​*
 
 **Pros:**
 
--   Customizable - allows you to add additional information like video,
-    > photo, and audio
+-   Customizable - allows you to add additional information like video, photo, and audio
 
 -   Full brand integration
 
--   Data Sync - automated dataset and visualization updates from your
-    > desktop GIS
+-   Data Sync - automated dataset and visualization updates from your desktop GIS
 
 **Cons:**
 
@@ -107,7 +93,7 @@ or in a popup modal.​*
 
 -   Does not appear to have an integrated navigation system
 
-## **[Mapbox]{.underline}**
+## **Mapbox**
 
 *Mapbox is a platform that allows users to customize maps that fit their
 needs. Come in light mode, dark mode, street mode, outdoor mode and
@@ -131,10 +117,9 @@ website.​*
 
 -   Might require some coding
 
--   Does not show where it allows you to add additional information to
-    > the markers
+-   Does not show where it allows you to add additional information to the markers
 
-## **[Palladio]{.underline}** 
+## **Palladio** 
 
 **Description:**
 
@@ -142,8 +127,7 @@ website.​*
 
 Pros:
 
--   Fairly easy to use, tutorials are available online, reviews are
-    > generally positive.
+-   Fairly easy to use, tutorials are available online, reviews are generally positive.
 
 -   Includes point-to-point data visualization option
 
@@ -151,32 +135,26 @@ Pros:
 
 Cons:
 
--   Lacks specialization of other software like arcGIS (according to
-    > testimonials on Palladio website.) Depending on the final format
-    > of the map, this may be limiting.
+-   Lacks specialization of other software like arcGIS (according to testimonials on Palladio website.) Depending on the final format of the map, this may be limiting.
 
-## **[Tableau]{.underline}**
+## **Tableau**
 
-## 
 
-## **Description:**
+**Description:**
 
-## 
 
-## **Technical Complexity:**
+**Technical Complexity:**
 
-## 
 
 **Pros:**
 
--   Lots of room for specialization - includes point-to-point
-    > visualization, animations, 3D options
+-   Lots of room for specialization - includes point-to-point visualization, animations, 3D options
 
 **Cons:**
 
 -   Steep learning curve
 
-## **[ZeeMaps]{.underline}**
+## **ZeeMaps**
 
 *ZeeMaps is a real-time mapping platform that allows users to add
 markers to their own locations of choice along with any additional
