@@ -1,7 +1,6 @@
-> [Compiled by Newcomb Institute's Digital Research
-> Internship]{.underline}
->
-> **Ability levels:**
+Compiled by Newcomb Institute's Digital Research Internship
+
+ **Ability levels:**
 
 -   **Beginner:** Knowledge of simple tools, ie Microsoft Office
 
@@ -12,8 +11,7 @@
 
 ## ArcGIS STORY MAPS
 
-> *Mapping tool, ESRI,*
-> [[https://www.esri.com/en-us/arcgis/products/arcgis-storymaps]{.underline}](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps)
+> *Mapping tool, ESRI,* [https://www.esri.com/en-us/arcgis/products/arcgis-storymaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps)
 
 -   PRO: Story Maps is "light" version"
 
@@ -29,8 +27,7 @@
 
 # ESRI STORY MAPS
 
-> *Mapping tool, ESRI,
-> [[https://storymaps-classic.arcgis.com/en/]{.underline}](https://storymaps-classic.arcgis.com/en/)*
+> *Mapping tool, ESRI, [https://storymaps-classic.arcgis.com/en/](https://storymaps-classic.arcgis.com/en/)*
 
 -   PRO: simple version of story maps, has "express map" feature
 
@@ -46,8 +43,7 @@
 
 # GEPHI
 
-> *Graphing tool, The Gephi Consortium,
-> [[gephi.org]{.underline}](http://gephi.org/)*
+> *Graphing tool, The Gephi Consortium, [gephi.org](http://gephi.org/)*
 
 -   PRO: can support complex data sets
 
@@ -63,9 +59,7 @@
 
 # KNIGHTS LAB
 
-> *Various data visualization formats, Northwestern University,*
-
-[[https://knightlab.northwestern.edu/]{.underline}](https://knightlab.northwestern.edu/)
+> *Various data visualization formats, Northwestern University, [https://knightlab.northwestern.edu/](https://knightlab.northwestern.edu/)
 
 -   PRO: multiple formats, like simple version of ArcGIS's "story maps"
 
@@ -82,8 +76,7 @@
 
 # OMKEA
 
-> *\"Media rich online exhibits", George Mason University,
-> [[omeka.org]{.underline}](http://omeka.org/)*
+> *\"Media rich online exhibits", George Mason University, [omeka.org](http://omeka.org/)*
 
 -   PRO: can create a collection of items to be showcased together
 
@@ -105,9 +98,7 @@
 
 # ESRI
 
-> *GIS mapping software,
-> [[https://www.esri.com/en-us/home]{.underline}](https://www.esri.com/en-us/home),
-> ESRI*
+> *GIS mapping software, [https://www.esri.com/en-us/home](https://www.esri.com/en-us/home), ESRI*
 
 -   PRO: can handle and display complex graphical information
 
@@ -123,9 +114,7 @@
 
 # ZOTERO
 
-> *"Personal research assistant",
-> [[https://www.zotero.org/]{.underline}](https://www.zotero.org/),
-> Collaboration for Digital Scholarship*
+> *"Personal research assistant", [https://www.zotero.org/](https://www.zotero.org/), Collaboration for Digital Scholarship*
 
 -   PRO: good for researching individually / in a group
 
@@ -142,9 +131,7 @@
 
 ## Palladio
 
-> *Historical data visualization tool, Stanford University,*
-
-[[https://hdlab.stanford.edu/palladio/]{.underline}](https://hdlab.stanford.edu/palladio/)
+> *Historical data visualization tool, Stanford University, [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
 -   PRO: Made specifically as visualization tools for digital humanities
     projects, versatile with many visualization options.
@@ -162,9 +149,7 @@
 
 ## Flourish
 
-> *Data visualization and storytelling platform, Flourish Studio,*
-
-[[https://flourish.studio/]{.underline}](https://flourish.studio/)
+> *Data visualization and storytelling platform, Flourish Studio, [https://flourish.studio/](https://flourish.studio/)
 
 -   PRO: User friendly, animated storytelling capabilities, easily
     exportable, and can be used on a web browser without installation
@@ -182,8 +167,7 @@
 
 ## RawGraphs
 
-> *Open source data visualization framework,*
-> [[https://rawgraphs.io/]{.underline}](https://rawgraphs.io/)
+> *Open source data visualization framework, [https://rawgraphs.io/](https://rawgraphs.io/)
 
 -   PRO: easily exportable, and can be used on a web browser without
     installation
@@ -201,9 +185,7 @@
 
 ## Datawrapper
 
-> *Data visualization platform, Datawrapper GmbH,*
-
-[[https://www.datawrapper.de/]{.underline}](https://www.datawrapper.de/)
+> *Data visualization platform, Datawrapper GmbH, [https://www.datawrapper.de/](https://www.datawrapper.de/)
 
 -   PRO: No coding skills required, user friendly, easily exportable,
     made specifically for online journalism (newspapers and magazines)
@@ -219,7 +201,7 @@
 
 -   VISUALIZATION ABILITIES: Multiple- charts, maps, tables
 
-> TEMPLATE:
+TEMPLATE:
 
 ## Name
 
