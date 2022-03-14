@@ -48,7 +48,9 @@
 
     e.  Open the PHP file and add the basic plugin information:
 
-![](media/image1.jpeg){width="5.1875in" height="1.6354166666666667in"}
+
+![Picture1](https://user-images.githubusercontent.com/89610126/158207902-5ed8a74f-06b1-41ef-ae6e-ff11096e347d.jpg)
+
 
 4.  Hooks - Actions and Filters
 
