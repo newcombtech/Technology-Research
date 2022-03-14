@@ -18,11 +18,10 @@ Complied by Newcomb Institute's Digital Research Intern Marisa Long
 
 -   HOW IT WORKS: Click "Create new timeline" and then click the + icon to add new posts. These posts won't appear even if you save them until you exit the timeline and reenter, which was confusing.
 
-![](media/image1.png){width="6.365805993000875in"
-height="2.458124453193351in"}
+![Picture1](https://user-images.githubusercontent.com/89610126/158210547-da7bbb06-fb78-4d96-8464-d8e70728dd73.png)
 
-![](media/image2.jpeg){width="5.066628390201225in"
-height="4.633853893263342in"}
+![Picture2](https://user-images.githubusercontent.com/89610126/158210057-281eabae-5a49-4046-8116-3e3e03750b88.jpg)
+
 
 # Timeline JS
 
@@ -42,12 +41,11 @@ height="4.633853893263342in"}
 
 -   HOW IT WORKS: Enter data into a google spreadsheet and the timeline will generate automatically following the instructions found here https://timeline.knightlab.com/#make. It will also generate a code to place into the WP page where you want the timeline to appear.
 
-![](media/image3.jpeg){width="5.031779308836396in"
-height="2.473957786526684in"}
+![Picture3](https://user-images.githubusercontent.com/89610126/158210205-dcd3284d-e25d-4fac-b287-76d7d0b88d02.jpg)
 
-![](media/image4.jpeg){width="4.870587270341208in"
-height="2.415in"}![](media/image5.jpeg){width="6.441941163604549in"
-height="3.19in"}
+![Picture4](https://user-images.githubusercontent.com/89610126/158210213-1457ee5a-8b8e-4a54-b29e-36c8923b4dc7.jpg)
+
+![Picture5jpg](https://user-images.githubusercontent.com/89610126/158210222-78598cbc-0ca5-4a4d-96f6-8496bdcedfc0.jpg)
 
 # WP timeline
 
@@ -67,8 +65,8 @@ height="3.19in"}
 
 -   HOW IT WORKS: I wasn't able to test this one since I didn't want to pay for it, but here are the demo pics:
 
-![](media/image6.jpeg){width="6.427563429571304in"
-height="5.234583333333333in"}
+![Picture6](https://user-images.githubusercontent.com/89610126/158210269-e789df8f-bb4a-4e11-a3a2-7c17802a48b7.jpg)
+
 
 # TimelineExpress
 
@@ -88,8 +86,8 @@ height="5.234583333333333in"}
 
 -   HOW IT WORKS: place shortcode where you want the timeline to appear on the page. If you want the picture to appear on the timeline and not only when you click "Read more," you must set it as the banner image.
 
-![](media/image7.jpeg){width="6.42816491688539in"
-height="4.6047911198600175in"}
+![Picture7](https://user-images.githubusercontent.com/89610126/158210320-3890d56b-db1a-4676-9789-3c70fc9b5fd8.jpg)
+
 
 # Event Timeline -- Vertical Timeline
 
@@ -110,11 +108,10 @@ height="4.6047911198600175in"}
 
 -   HOW IT WORKS: Place shortcode where you want the timeline to appear on the page. I tested it with style 8 and chose a random color.
 
-![](media/image8.jpeg){width="4.921428258967629in"
-height="2.870833333333333in"}
+![Picture8](https://user-images.githubusercontent.com/89610126/158210398-259d62ef-365a-4679-834a-17db9d978d43.jpg)
 
-![](media/image9.jpeg){width="4.991524496937883in"
-height="4.294791119860018in"}
+![Picture9](https://user-images.githubusercontent.com/89610126/158210410-258917ff-fa03-45ef-b357-a2f7d901a8dc.jpg)
+
 
 # Other options to consider:
 
