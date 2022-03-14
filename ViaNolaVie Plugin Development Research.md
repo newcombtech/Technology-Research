@@ -52,105 +52,99 @@
 
 4.  Hooks - Actions and Filters
 
-    a.  Hooks are provided by WordPress to allow your plugin to modify
+    -  Hooks are provided by WordPress to allow your plugin to modify
          the default actions of WordPress. Hooks simplify the
          development process by modifying already developed WordPress
          code rather than starting from scratch. In general, Hooks call
          functions into WordPress at specific times and can be divided
          into two categories:
 
-    - Actions - Adds a piece of code to the WordPress system that
+        - Actions - Adds a piece of code to the WordPress system that
              is triggered and run at specific times.
 
-    - Filters - serve a similar function to action hooks, however
+        - Filters - serve a similar function to action hooks, however
              it is intended that filters receive a value and return a
              modified version of that value. For example, a filter
              could be used to capitalize the first letter of a title
              before posting it.
 
-    b.  The most basic steps to add actions or filters to a WordPress:
+    -  The most basic steps to add actions or filters to a WordPress:
 
-    - Create a PHP function that should execute when a specific
+        - Create a PHP function that should execute when a specific
              WordPress event occurs, in your plugin file.
 
-    - Hook this function to the event by using the[add_action()](https://developer.wordpress.org/reference/functions/add_action/) or
+        - Hook this function to the event by using the[add_action()](https://developer.wordpress.org/reference/functions/add_action/) or
              add_filter() function.
 
-    - Put your PHP function in a plugin file, and activate it.
+        - Put your PHP function in a plugin file, and activate it.
 
-    c.  [Plugin
-         API](https://codex.wordpress.org/Plugin_API) ​-
+    -  [Plugin API](https://codex.wordpress.org/Plugin_API) ​-
          contains more relevant information on how to create an action
          or filter and how to hook it to wordpress
 
-    d.  Further resources:
+    -  Further resources:
 
-    - [Action
-             Reference](https://codex.wordpress.org/Plugin_API/Action_Reference) ​-
+       - [Action Reference](https://codex.wordpress.org/Plugin_API/Action_Reference) ​-
              List of WordPress's action hooks
 
-    - [Filter
-             Reference](https://codex.wordpress.org/Plugin_API/Filter_Reference) ​-
+       - [Filter Reference](https://codex.wordpress.org/Plugin_API/Filter_Reference) ​-
              List of WordPress's filter hooks
 
 
 5.  Pre Existing Plugins to look into:
 
-    a.  [WP-o-Matic](https://github.com/themeskult/wp-o-matic)
+    - [WP-o-Matic](https://github.com/themeskult/wp-o-matic)
 
-    - *What it is*: Plugin that automatically creates
-             posts from the RSS/Atom feeds you choose.
+       - *What it is*: Plugin that automatically creates posts from the RSS/Atom feeds you choose.
 
-    - Pros:
+       - Pros:
 
-            1.  Free to download from Github
+         - Free to download from Github
 
-            2.  Extremely powerful and flexible
+          - Extremely powerful and flexible
 
-            3.  Automatically updates when the source it pulls from is
-                 updated
+         - Automatically updates when the source it pulls from is
+                   updated
 
-    - Cons/Concerns:
+        - Cons/Concerns:
 
-             1.  Complicated and will require training and research to
+           - Complicated and will require training and research to
                   understand its capabilities
 
-             2.  Requires SimplePie software - not entirely sure what
+           - Requires SimplePie software - not entirely sure what
                   that is
 
-             3.  Requires understanding of what an RSS/Atom feed is
+           - Requires understanding of what an RSS/Atom feed is
 
-             4.  Not sure if it can be customized to add content to a
+           - Not sure if it can be customized to add content to a
                   post or if it is only possible to create a new post
 
-             5.  Not sure if it can be customized to filter content
+           - Not sure if it can be customized to filter content
                   based on tags
 
-    - [More
-             information](https://wparena.com/how-to-pull-content-from-other-websites-automatically/)
+      - [More information](https://wparena.com/how-to-pull-content-from-other-websites-automatically/)
 
-    b.  [WP Web
-         Scraper](https://wordpress.org/plugins/wp-scraper/)
+    - [WP Web Scraper](https://wordpress.org/plugins/wp-scraper/)
 
-    - What it is: ​Uses CURL and phpQuery to grab
+         - What it is: ​Uses CURL and phpQuery to grab
              and manipulate data from any public website.
 
-    - Pros:
+         - Pros:
 
-            1.  Free to download from the WordPress repository
+            - Free to download from the WordPress repository
 
-            2.  Allows content to be uploaded to a specific post.
+            - Allows content to be uploaded to a specific post.
 
-            3.  Uses JquerySelectors allows you to select which elements
+            - Uses JquerySelectors allows you to select which elements
                  you want from the external website. (would allow us to
                  filter content by tags)
 
-    - Cons/Concerns:
+        - Cons/Concerns:
 
-             1.  Complicated and requires understanding of CSS Selectors
+            - Complicated and requires understanding of CSS Selectors
 
         
-            2.  New scraping code must be written for each post created. It
+             - New scraping code must be written for each post created. It
              is unclear if the plugin could be customized to
              automatically query and upload content for each new post.
 
@@ -162,24 +156,24 @@ i.  What it is: ​Plugin that allows you to use shortcode
 
 ii. Pros:
 
-    1.  Seems to be a simplified, streamlined version of WP Web Scraping
+1. Seems to be a simplified, streamlined version of WP Web Scraping
 
-    2.  Free to download from the WordPress repository
+2. Free to download from the WordPress repository
 
-    3.  Allows content to be uploaded to a specific post.
+3. Allows content to be uploaded to a specific post.
 
-    4.  Uses JquerySelectors allows you to select which elements you
+4. Uses JquerySelectors allows you to select which elements you
          want from the external website. (would allow us to filter
          content by tags)
 
-    5.  Has the option to add or remove content from the imported data.
+5. Has the option to add or remove content from the imported data.
 
 iii. Cons/Concerns:
 
-     1.  Requires an understanding of HTML and CSS Selectors.
+1. Requires an understanding of HTML and CSS Selectors.
 
-     2.  New scraping code must be written for each post created. It is
+2. New scraping code must be written for each post created. It is
           unclear if the plugin could be customized to automatically
           query and upload content for each new post.
 
-     3.  Less established and not as widely used as WP Web Scraping
+3. Less established and not as widely used as WP Web Scraping
