@@ -52,7 +52,7 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 
 ## Website Platforms
 
-- [Website Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.docx)
+- [Website Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.md)
 	- Omeka
 		- Omeka S
 		- Omeka Classic
@@ -69,11 +69,11 @@ The Tech Lab teams have conducted a lot of research about a variety of platforms
 	- Wix.com
 	- Weebly
 
-Details about the listed technologies are available via the [Website Research document](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.docx).
+Details about the listed technologies are available via the [Website Research document](https://github.com/newcombtech/Technology-Research/blob/main/Web%20Research%20and%20Resources.md).
 
 ## Data Visualizations
 
-- [Mapping Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx)
+- [Mapping Platforms](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.md)
 	- ArcGIS
 	- Flourish
 	- Gephi
@@ -83,9 +83,9 @@ Details about the listed technologies are available via the [Website Research do
 	- Tableau
 	- ZeeMaps
 
-Details about the listed technologies are availible via the [Mapping Research document](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.docx).
+Details about the listed technologies are availible via the [Mapping Research document](https://github.com/newcombtech/Technology-Research/blob/main/Mapping%20Research.md).
 
-- [General Data Viz Tools](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.pdf)
+- [General Data Viz Tools](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.md)
 	- ArcGIS Story Maps
 	- ESRI Story Maps
 	- Gephi
@@ -98,9 +98,9 @@ Details about the listed technologies are availible via the [Mapping Research do
 	- RawGraphs
 	- Datawrapper
 
-Details about the listed technologies are availible via the [Data Viz Tools document](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.pdf).
+Details about the listed technologies are availible via the [Data Viz Tools document](https://github.com/newcombtech/Technology-Research/blob/main/Online%20Tools%20for%20Visualization%20Research.md).
 
-- [Timeline Visualizations](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.pdf)
+- [Timeline Visualizations](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.md)
 	- Liniaa
 	- Timeline JS
 	- WP Timeline
@@ -110,21 +110,21 @@ Details about the listed technologies are availible via the [Data Viz Tools docu
 	- Edraw Max
 	- Twile
 
-Details about the listed technologies are availible via the [Timeline Visualizations document](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.pdf).
+Details about the listed technologies are availible via the [Timeline Visualizations document](https://github.com/newcombtech/Technology-Research/blob/main/Timeline%20Research.md).
 
 ## Video Platforms
 
-- [Video Platform Research](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.docx)
+- [Video Platform Research](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.md)
 	- Zoom Cloud Recordings
 	- YouTube
 	- Vimeo
 
-Details about the listed technologies are available via the [Video Platform Research document](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.docx).
+Details about the listed technologies are available via the [Video Platform Research document](https://github.com/newcombtech/Technology-Research/blob/main/Video%20Platform%20Research.md).
 
 ## WordPress Plugins
 
-- [Plugin Development](https://github.com/newcombtech/Technology-Research/blob/main/Writing%20a%20Plugin%20Research%20and%20Notes.pdf)
-- [Video Plugins](https://github.com/newcombtech/Technology-Research/blob/main/Video%20and%20Reel%20Plugins.pdf)
+- [Plugin Development](https://github.com/newcombtech/Technology-Research/blob/main/ViaNolaVie%20Plugin%20Development%20Research.md)
+- [Video Plugins](https://github.com/newcombtech/Technology-Research/blob/main/Video%20and%20Reel%20Plugins.md)
 	- All-in-One Video Gallery
 	- Image Horizontal Reel Slideshow
 	- Envira Gallery
@@ -132,8 +132,8 @@ Details about the listed technologies are available via the [Video Platform Rese
 	- Video Gallery - Vimeo and YouTube Gallery
 	- WP Video Lightbox
 
-Details about the listed technologies are availible via the [Video Plugins document](https://github.com/newcombtech/Technology-Research/blob/main/Video%20and%20Reel%20Plugins.pdf).
+Details about the listed technologies are availible via the [Video Plugins document](https://github.com/newcombtech/Technology-Research/blob/main/Video%20and%20Reel%20Plugins.md).
 
 ## Dublin Core
 
-- [Dublin Core Research](https://github.com/newcombtech/Technology-Research/blob/main/Dublin%20Core%20Research.docx)
+- [Dublin Core Research](https://github.com/newcombtech/Technology-Research/blob/main/Dublin%20Core%20Research.md)
